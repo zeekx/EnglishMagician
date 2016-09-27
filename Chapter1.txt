@@ -1,0 +1,79 @@
+question:1.The magician moved his fingers quickly.
+answer:SVOC
+comment:SVO
+
+question:2.The police found the letter missing.
+answer:SVOC
+comment:
+
+question:3.The police found the missing letter.
+answer:SVO
+comment:
+
+question:4.He ordered himself a steak and a bottle of red wine.
+answer:SVOC
+comment:SVOO
+
+question:5.Don’t you like dancing.
+answer:SVO
+comment:
+
+question:6.The President has gone abroad on a visit.
+answer:SVOO
+comment:SV
+
+question:7.That sounds like a good idea.
+answer:SVO
+comment:SVC
+
+question:8.The box feels heavy.
+answer:SVO
+comment:SVC
+
+question:9.He told his guests a dirty joke at the party.
+answer:SVOO
+comment:
+
+question:10.The people elected Bill Clinton President.
+answer:SVO
+comment:SVOC
+
+question:11.The child asks her mother a million questions a day.
+answer:SVOO
+comment:
+
+question:12.Monkeys love bananas.
+answer:SVO
+comment:
+
+question:13.You can leave the door open.
+answer:SVOC
+comment:
+
+question:14.The company has gone bankrupt.
+answer:SVO
+comment:SVC
+
+question:15.Why don’t you ask me?
+answer:SVOC
+comment:SVO
+
+question:16.I consider you a member of the family.
+answer:SVOC
+comment:
+
+question:17.It never rains in California.
+answer:SVOC
+comment:SV
+
+question:18.You’ll look better with these designer glasses on.
+answer:SVOC
+comment:SVC
+
+question:19.I can see better without these reading glasses.
+answer:SVOC
+comment:SV
+
+question:20.Do you call me a liar?
+answer:SVOC
+comment:
