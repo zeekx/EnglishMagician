@@ -1,0 +1,159 @@
+question:1.The carpenter repaired ___.
+A.the table's legs
+B.table's legs
+C.legs of the table
+D.the legs of the table
+answer:C
+comment:D
+
+question:2.Mr.Smith has three ___ under his name.
+A.shoe stores
+B.shoes stores
+C.shoe store
+D.shoesotres
+answer:A
+comment:
+
+question:3.The house sits on ___ road.
+A.twelve feet in width
+B.of twelve feet
+C.twelve-foot-wide
+D.twelve-feet
+answer:C
+comment:
+
+question:4.These men and women are all ___.
+A.language's teachers
+B.languages teachers
+C.language teachers
+D.languages’ teachers
+answer:D
+comment:C
+
+question:5.He order ___ for breakfast.
+A.orange juice, bread and butter, coffee, and bacon, and eggs
+B.orange, juice, bread, and butter,coffee and bacon and eggs
+C.orange juice, bread and butter, coffee, and bacon and eggs
+D.
+answer:
+comment:C
+
+question:6.The prime minister is the real ruler and the prince is merely a ___.
+A.little
+B.small
+C.nobody
+D.none
+answer:A
+comment:C
+
+question:7.Living in the city, he was always being annoyed by noises of ___.
+A.one sort of other
+B.one sort of the other
+C.one sort or another
+D.one or others sorts
+answer:C
+comment:
+
+question:8.Writing is one thing and talking is quite ___.
+A.the other
+B.another
+C.others
+D.the others
+answer:B
+comment:
+
+question:9.The majority of the Members of Parliament are men, but there are ___ women, of course.
+A.few
+B.little
+C.any
+D.quite a few
+answer:A
+comment:D
+
+question:10.___ is what he said:Don't go out!.
+A.This
+B.That
+C.The
+D.These
+answer:A
+comment:
+
+question:11.Whether you serve coffee or tea dosen't matter; ___ will do.
+A.any
+B.either
+C.some
+D.all
+answer:B
+comment:
+
+question:12.As we have finished the first chapter, now we will read ___.
+A.second
+B.the second
+C.second one
+D.the two
+answer:A
+comment:B
+
+question:13.He has tows daughters; one is a signer and ___ and actress.
+A.another
+B.other
+C.the other
+D.the others
+answer:A
+comment:C
+
+question:14.He asked if eighty dollars was enough, and I said that ___ twenty would do.
+A.more
+B.another
+C.other
+D.the other
+answer:A
+comment:B
+
+question:15.Mary Kurt, ___ of the troupe, was strongly against smoking.
+A.alto
+B.the alto
+C.an alto
+D.altos
+answer:C
+comment:A
+
+question:16.This kind of ball-pen holds ___ ink than that.
+A.less
+B.fewer
+C.much
+D.litter
+answer:C
+comment:A
+
+question:17.John works harder than ___ boy in his class.
+A.all other
+B.any other
+C.all the other
+D.any
+answer:C
+comment:B
+
+question:18.I was told to take the pills ___ six hours.
+A.each
+B.every
+C.other
+D.the other
+answer:A
+comment:B
+
+question:19.The man badly wounded, but there could still be ___ hope.
+A.litte
+B.few
+C.a little
+D.a few
+answer:C
+comment:
+
+question:20.___ these people are going to the concert.
+A.The most
+B.Most of
+C.Most
+D.Almost
+answer:B
+comment:
